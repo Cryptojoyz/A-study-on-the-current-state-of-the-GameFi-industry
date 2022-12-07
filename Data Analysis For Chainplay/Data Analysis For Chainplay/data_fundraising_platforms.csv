@@ -1,0 +1,69 @@
+,platform name,blockchain,current roi,ath roi,tges,raised,entry,time to crawl
+1,GameFi,"['ethereum', 'solana', 'polygon', 'moonriver']",0.16x,32.1x,39,"$5,144,600 ",$158.33 ,2022/11/12
+2,TrustPad,"['ethereum', 'solana', 'polygon', 'avalanche', 'enjin', 'okexchain', 'terra', 'aurora', 'celo', 'fantom', 'other']",0.12x,13.66x,39,"$7,235,094 ",$235.64 ,2022/11/12
+3,Red Kite,"['ethereum', 'solana', 'polygon', 'moonriver']",0.19x,30.08x,38,"$4,987,382 ",$52.68 ,2022/11/12
+4,Seedify,"['ethereum', 'solana', 'polygon', 'avalanche', 'enjin', 'fantom', 'other']",0.19x,47.3x,33,"$9,223,747 ",$316.39 ,2022/11/12
+5,Enjinstarter,"['ethereum', 'solana', 'polygon', 'avalanche', 'enjin']",0.14x,39.77x,32,"$4,260,000 ",$2.15 ,2022/11/12
+6,BSCStation,"['ethereum', 'polygon']",0.06x,27.03x,30,"$4,028,750 ",$104.69 ,2022/11/12
+7,DAO Maker,"['ethereum', 'polygon']",0.66x,40.21x,27,"$4,051,000 ",$270.67 ,2022/11/12
+8,Poolz,"['ethereum', 'polygon']",0.19x,68.28x,26,"$3,522,000 ",$288.75 ,2022/11/12
+9,Gamestarter,"['solana', 'avalanche', 'aurora', 'celo', 'other']",0.14x,19.69x,22,"$3,777,475 ",$27.97 ,2022/11/12
+10,Polkastarter,"['ethereum', 'polygon', 'phantasma']",0.18x,28.19x,20,"$8,441,530 ",$86.59 ,2022/11/12
+11,GameStation,"['polygon', 'avalanche', 'okexchain', 'fantom']",0.08x,5.41x,20,"$2,325,679 ",$0.45 ,2022/11/12
+12,BinStarter,"['ethereum', 'celo']",0.06x,32.59x,18,"$2,787,000 ",$96.82 ,2022/11/12
+13,MoonStarter,"['ethereum', 'solana', 'fantom', 'other']",0.07x,7.63x,16,"$1,505,000 ",$47.03 ,2022/11/12
+14,PAID Network,"['ethereum', 'solana', 'polygon', 'enjin']",0.69x,40.83x,15,"$3,195,900 ",$19.61 ,2022/11/12
+15,LaunchZone,"['ethereum', 'solana']",0.17x,29.24x,15,"$4,543,920 ",$0.16 ,2022/11/12
+16,BullPerks,"['ethereum', 'solana', 'polygon', 'avalanche', 'fantom']",0.1x,7.87x,14,"$2,085,000 ",$50.47 ,2022/11/12
+17,DuckSTARTER,"['ethereum', 'solana', 'polygon']",0.09x,26.56x,14,"$1,344,500 ",$45.67 ,2022/11/12
+18,Krystal GO,"['ethereum', 'polygon', 'avalanche']",0.09x,14.65x,13,"$2,182,876 ",-,2022/11/12
+19,TruePNL,"['solana', 'polygon', 'aurora', 'other']",0.07x,5.21x,13,"$1,340,000 ",$29.48 ,2022/11/12
+20,Roseon Finance,"['ethereum', 'solana', 'okexchain']",0.34x,8.51x,13,"$1,901,250 ",$11.55 ,2022/11/12
+21,Kommunitas,"['ethereum', 'solana', 'polygon', 'avalanche', 'okexchain', 'heco', 'aurora', 'fantom', 'other', 'bsc']",0.11x,6.3x,12,"$1,095,000 ",$0.10 ,2022/11/12
+22,Solanium,['solana'],0.21x,46.71x,9,"$3,632,000 ",$4.01 ,2022/11/12
+23,BSCPad,"['ethereum', 'polygon']",1.01x,107.39x,9,"$1,858,315 ",$109.47 ,2022/11/12
+24,Starter,"['ethereum', 'solana', 'polygon', 'okexchain']",0.47x,17.34x,9,"$936,800 ",-,2022/11/12
+25,ChainBoost,"['ethereum', 'solana', 'polygon', 'phantasma']",0.18x,39.54x,9,"$1,045,000 ",-,2022/11/12
+26,GameZone,"['ethereum', 'polygon']",0.28x,75.81x,9,"$2,550,000 ",$18.83 ,2022/11/12
+27,Synapse Network,"['ethereum', 'solana', 'okexchain']",0.07x,8.13x,8,"$1,110,000 ",$6.89 ,2022/11/12
+28,BSClaunch,"['ethereum', 'solana', 'polygon', 'avalanche']",0.06x,22.98x,8,"$761,050 ",$5.42 ,2022/11/12
+29,Infinity Pad,"['solana', 'polygon']",0.16x,18.22x,8,"$860,000 ",$48.35 ,2022/11/12
+30,CyberFi,"['ethereum', 'solana', 'polygon', 'fantom']",0.07x,6.66x,7,"$1,416,708 ",$20.71 ,2022/11/12
+31,LuaStarter,"['ethereum', 'solana']",0.07x,15.95x,7,"$645,000 ",$56.46 ,2022/11/12
+32,Polkabridge,"['polygon', 'okexchain', 'other']",0.03x,5.98x,7,"$647,500 ",$450.61 ,2022/11/12
+33,PancakeSwap,[],0.54x,17.28x,6,"$9,487,500 ",$40.86 ,2022/11/12
+34,ZENDIT,"['ethereum', 'solana', 'polygon', 'moonriver']",0.15x,30.04x,6,"$760,000 ",$277.74 ,2022/11/12
+35,Koistarter,['ethereum'],0.06x,6.44x,6,"$530,000 ",$1.04 ,2022/11/12
+36,Avalaunch,['avalanche'],0.35x,45.77x,6,"$5,179,319 ",-,2022/11/12
+37,DAOLaunch,"['solana', 'avalanche', 'other']",0.09x,34.38x,5,"$280,000 ",$9.09 ,2022/11/12
+38,Infinite Launch,['polygon'],0.11x,3.45x,5,"$760,000 ",$10.68 ,2022/11/12
+39,GenPad,['polygon'],0.06x,68.62x,5,"$287,500 ",-,2022/11/12
+40,TrustSwap,['polygon'],0.46x,31.11x,4,"$1,880,000 ",$839.48 ,2022/11/12
+41,SolRazr,"['solana', 'polygon']",0.07x,4.78x,4,"$1,120,000 ",$2.31 ,2022/11/12
+42,AcceleRaytor,['solana'],1.13x,83.53x,4,"$1,498,400 ",-,2022/11/12
+43,StarLaunch,['solana'],0.73x,22.27x,3,"$1,150,000 ",$0.03 ,2022/11/12
+44,GAGARIN,[],0.2x,2.08x,3,"$130,000 ",-,2022/11/12
+45,ZeeDO,['ethereum'],0.28x,11.59x,3,"$260,000 ",$69.44 ,2022/11/12
+46,OccamRazer,['polygon'],1.89x,11.94x,3,"$576,164 ",$27.44 ,2022/11/12
+47,Vent Finance,['avalanche'],2.22x,57.96x,3,"$610,000 ",$32.71 ,2022/11/12
+48,Lightning,['solana'],0.01x,6.71x,3,"$1,230,000 ",$134.54 ,2022/11/12
+49,Impossible Finance,"['ethereum', 'solana']",0.84x,23.87x,3,"$1,160,000 ",$0.07 ,2022/11/12
+50,Binance NFT,[],-,0.3x,2,"$465,000 ",-,2022/11/12
+51,FantomStarter,['fantom'],2.1x,34.88x,2,"$250,000 ",$10.97 ,2022/11/12
+52,FireStarter,"['ethereum', 'solana', 'polygon']",0.17x,14.76x,2,"$674,000 ",$2.02 ,2022/11/12
+53,WeStarter,[],0.02x,1.33x,2,"$35,000 ",$143.77 ,2022/11/12
+54,Launchpool,['ethereum'],0.22x,42.25x,2,"$800,000 ",-,2022/11/12
+55,KickPAD,[],1.15x,84.36x,2,"$225,000 ",-,2022/11/12
+56,Zelwin Finance,[],0.97x,28.95x,1,"$50,000 ",$2.52 ,2022/11/12
+57,RoadStarter,[],0.56x,4.17x,1,"$50,000 ",$0.56 ,2022/11/12
+58,Lighthouse,[],3.48x,167.62x,1,"$50,000 ",-,2022/11/12
+59,Scaleswap,[],0.06x,1.09x,1,"$75,000 ",$0.01 ,2022/11/12
+60,TronPad,['ethereum'],0.21x,24.94x,1,"$150,750 ",-,2022/11/12
+61,AvaXlauncher,[],-,13.84x,1,"$240,000 ",$1.54 ,2022/11/12
+62,A2DAO,"['ethereum', 'solana']",0.02x,10.14x,1,"$140,000 ",$10.73 ,2022/11/12
+63,MISO,['ethereum'],0.1x,1.63x,1,"$428,571 ",-,2022/11/12
+64,Pandora,[],-,-,-,-,-,2022/11/12
+65,NFTb,['bsc'],-,-,-,-,-,2022/11/12
+66,Babylons,['bsc'],-,-,-,-,-,2022/11/12
+67,Luxpad,"['bsc', 'ethereum', 'polygon', 'cronos']",-,-,-,-,-,2022/11/12
+68,Kingdom Game 4.0,['bsc'],-,-,-,-,-,2022/11/12

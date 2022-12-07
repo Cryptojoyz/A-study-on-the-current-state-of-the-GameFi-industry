@@ -1,0 +1,803 @@
+,Name,Investor Type,Total Investment,Current ROI,Ath ROI,Top3 ROI,Time of Crawl
+1,quest-capital,Crypto Ventures,1,31.61x,336.94x,PlayDapp(31.61x ),2022/11/12
+2,vestigium,,1,31.61x,336.94x,PlayDapp(31.61x ),2022/11/12
+3,blocore,,4,31.61x,336.94x,PlayDapp(31.61x ),2022/11/12
+4,scalar-capital,Crypto Ventures,2,25.08x,"1,117x",Yield Guild Games(24.9x ),2022/11/12
+5,gumi-cryptos,,4,25.08x,"1,117x",Yield Guild Games(24.9x ),2022/11/12
+6,flamingodao,,2,25.08x,"1,117x",Yield Guild Games(24.9x ),2022/11/12
+7,r930-capital,Crypto Ventures,2,21.43x,"1,316.16x","Blackpool(41.02x ), Last Survivor(0.09x )",2022/11/12
+8,blocktower-capital,,3,20.85x,502.55x,"PlayDapp(31.61x ), Yield Guild Games(24.9x ), League of Kingdoms(5.86x )",2022/11/12
+9,bitscale-capital,Crypto Ventures,10,18.42x,591.51x,"Yield Guild Games(24.9x ), My Neighbor Alice(24.6x ), Yield Guild Games(5.53x )",2022/11/12
+10,sevenx-ventures,,6,15.32x,682.61x,"Yield Guild Games(24.9x ), Yield Guild Games(5.53x )",2022/11/12
+11,ascensive-assets,Crypto Ventures,5,15.32x,682.61x,"Yield Guild Games(24.9x ), Yield Guild Games(5.53x )",2022/11/12
+12,free-company,,3,15.32x,682.61x,"Yield Guild Games(24.9x ), Yield Guild Games(5.53x )",2022/11/12
+13,btx-capital,,3,14.77x,285.08x,"My Neighbor Alice(24.6x ), X World Games(4.94x )",2022/11/12
+14,rarestone-capital,Crypto Ventures,6,13.02x,266.05x,"My Neighbor Alice(24.6x ), Faraland(1.44x )",2022/11/12
+15,delphi-digital,Crypto Ventures,22,12.56x,559.64x,"Yield Guild Games(24.9x ), Crypto Raiders(0.03x )",2022/11/12
+16,avalanche,Project Based,5,8.8x,536.83x,"Bloktopia(32.06x ), Crabada(1.43x ), Heroes Chained(1.11x )",2022/11/12
+17,coin98-ventures,Project Based,13,8.8x,184.51x,"My Neighbor Alice(24.6x ), Faraland(1.44x ), Elpis Battle(0.36x )",2022/11/12
+18,animoca-brands,Project Based,77,7.9x,383.9x,"Bloktopia(32.06x ), Yield Guild Games(24.9x ), Rainmaker Games(6.91x )",2022/11/12
+19,coinfund,,4,6.91x,137x,Rainmaker Games(6.91x ),2022/11/12
+20,arkn,Crypto Ventures,1,6.02x,"1,555x",Geopoly(6.02x ),2022/11/12
+21,kent-capital-vc,Crypto Ventures,2,6.02x,"1,555x",Geopoly(6.02x ),2022/11/12
+22,sequoia-capital,Non-Crypto Capital,6,5.86x,53.7x,League of Kingdoms(5.86x ),2022/11/12
+23,binance-labs,,9,5.86x,53.7x,League of Kingdoms(5.86x ),2022/11/12
+24,andreessen-horowitz,Non-Crypto Capital,15,5.72x,150.96x,"League of Kingdoms(5.86x ), Yield Guild Games(5.53x )",2022/11/12
+25,ideo-colab-ventures,Crypto Ventures,4,5.57x,248.22x,Yield Guild Games(5.53x ),2022/11/12
+26,a.-capital-ventures,Non-Crypto Capital,2,5.57x,248.22x,Yield Guild Games(5.53x ),2022/11/12
+27,bitkraft-ventures,,18,5.57x,248.22x,Yield Guild Games(5.53x ),2022/11/12
+28,greenfield-one,,2,5.57x,248.22x,Yield Guild Games(5.53x ),2022/11/12
+29,solana-capital,Crypto Ventures,8,5.56x,831.25x,"Geopoly(6.02x ), MonkeyLeague(5.11x )",2022/11/12
+30,polygon-studios,Crypto Ventures,25,5.38x,264.77x,"Bloktopia(32.06x ), Yield Guild Games(24.9x ), Rainmaker Games(6.91x )",2022/11/12
+31,nfx,Non-Crypto Capital,5,5.11x,107.5x,MonkeyLeague(5.11x ),2022/11/12
+32,republic-labs,,2,5.11x,107.5x,MonkeyLeague(5.11x ),2022/11/12
+33,jump-trading,Crypto Ventures,1,5.11x,107.5x,MonkeyLeague(5.11x ),2022/11/12
+34,snz-holding,,2,4.94x,160.88x,X World Games(4.94x ),2022/11/12
+35,fbg-capital,,7,4.94x,160.88x,X World Games(4.94x ),2022/11/12
+36,cryptodiffer,,3,4.94x,160.88x,X World Games(4.94x ),2022/11/12
+37,preangelfund,,2,4.94x,160.88x,X World Games(4.94x ),2022/11/12
+38,longling-capital,,3,4.94x,160.88x,X World Games(4.94x ),2022/11/12
+39,mechanism-capital,Crypto Ventures,18,4.9x,153.5x,"Yield Guild Games(5.53x ), Decimated(4.24x )",2022/11/12
+40,genblock-capital,Crypto Ventures,21,4.61x,222.62x,"Bloktopia(32.06x ), Rainmaker Games(6.91x ), Metarun(0.65x )",2022/11/12
+41,cointelligence-fund,Crypto Ventures,3,4.59x,134.16x,"Moonscape(4.94x ), Decimated(4.24x )",2022/11/12
+42,parafi-capital,Crypto Ventures,5,4.38x,127.29x,"Yield Guild Games(5.53x ), MetaSoccer(3.18x )",2022/11/12
+43,polygon,,15,4.24x,58.79x,Decimated(4.24x ),2022/11/12
+44,cms-holdings,Crypto Ventures,7,4.2x,90.59x,"Rainmaker Games(6.91x ), MonkeyLeague(5.11x ), Imperium Empires(0.57x )",2022/11/12
+45,alameda-research,Crypto Ventures,20,4.09x,86.33x,"Rainmaker Games(6.91x ), Decimated(4.24x ), Roco Finance(1.13x )",2022/11/12
+46,genesis-block-ventures,Crypto Ventures,10,3.65x,81.91x,"My Neighbor Alice(24.6x ), Realm(1.97x ), Cricket Star Manager(1.06x )",2022/11/12
+47,borderless-capital,,2,3.64x,273.12x,GridZone.io(3.64x ),2022/11/12
+48,ngc-ventures,Crypto Ventures,21,3.6x,108.06x,"My Neighbor Alice(24.6x ), X World Games(4.94x ), Realm(1.97x )",2022/11/12
+49,merit-circle,Project Based,25,3.47x,69.64x,"Rainmaker Games(6.91x ), Crypto Raiders(0.03x )",2022/11/12
+50,metavest-capital,Crypto Ventures,5,3.18x,126.01x,"Decimated(4.24x ), SIDUS(2.13x )",2022/11/12
+51,ruby-capital,,1,3.07x,254.67x,Project SEED(3.07x ),2022/11/12
+52,lpi-dao,Crypto Ventures,3,3.03x,778.74x,"Geopoly(6.02x ), Gamesta(0.04x )",2022/11/12
+53,black-edge-capital,,2,3x,105.78x,"Moonscape(4.94x ), Cricket Star Manager(1.06x )",2022/11/12
+54,solidity-ventures,,2,3x,105.78x,"Moonscape(4.94x ), Cricket Star Manager(1.06x )",2022/11/12
+55,blockchain-founders-fund,Crypto Ventures,3,2.97x,59.17x,Splinterlands(2.97x ),2022/11/12
+56,enjin,Project Based,2,2.97x,59.17x,Splinterlands(2.97x ),2022/11/12
+57,alpha-sigma-capital,Crypto Ventures,1,2.97x,59.17x,Splinterlands(2.97x ),2022/11/12
+58,age-crypto-fund,Crypto Ventures,1,2.97x,59.17x,Splinterlands(2.97x ),2022/11/12
+59,spartan-group,Crypto Ventures,22,2.84x,38.2x,"Decimated(4.24x ), Starly(1.43x )",2022/11/12
+60,kairon-labs,Crypto Ventures,2,2.8x,106.82x,"Moonscape(4.94x ), Metarun(0.65x )",2022/11/12
+61,longhash-ventures,Crypto Ventures,6,2.78x,61.01x,"MonkeyLeague(5.11x ), KingdomX(0.46x )",2022/11/12
+62,three-m-capital,,3,2.75x,137.06x,"Decimated(4.24x ), Chumbi Valley(1.26x )",2022/11/12
+63,sky-vision-capital,Crypto Ventures,21,2.67x,108.96x,"Rainmaker Games(6.91x ), League of Kingdoms(5.86x ), Moonscape(4.94x )",2022/11/12
+64,hashed,Crypto Ventures,18,2.24x,48.2x,"League of Kingdoms(5.86x ), Gunstar Metaverse(1.7x ), MetaGods(1.04x )",2022/11/12
+65,bixin-ventures,,3,2.22x,73.91x,"Decimated(4.24x ), Zuki Moba(0.2x )",2022/11/12
+66,angelone-capital,,2,2.09x,44.75x,Gamestarter(2.09x ),2022/11/12
+67,mgnr,Crypto Ventures,1,2.09x,44.75x,Gamestarter(2.09x ),2022/11/12
+68,bap-ventures,Non-Crypto Capital,1,2.08x,105.1x,Pegaxy(2.08x ),2022/11/12
+69,maven-capital,Crypto Ventures,45,2.02x,148.47x,"Blackpool(41.02x ), Cryowar(2.31x ), SIDUS(2.13x )",2022/11/12
+70,shima-capital,Crypto Ventures,43,2x,107x,"Bloktopia(32.06x ), Gamestarter(2.09x ), Metastrike(1.51x )",2022/11/12
+71,global-blockchain-innovative-capital,,1,1.97x,144x,Realm(1.97x ),2022/11/12
+72,consensus-capital,,2,1.92x,126.06x,"My DeFi Pet(3.73x ), Metan Evolutions(0.12x )",2022/11/12
+73,digital-finance-group,Crypto Ventures,3,1.9x,128.94x,"My DeFi Pet(3.73x ), Kawaii Islands(0.06x )",2022/11/12
+74,oig-oracles-investment-group,Crypto Ventures,40,1.88x,178.09x,"Blackpool(41.02x ), Geopoly(6.02x ), Project SEED(3.07x )",2022/11/12
+75,altonomy,Crypto Ventures,4,1.84x,142.54x,"GridZone.io(3.64x ), Cryptia(0.04x )",2022/11/12
+76,tag-ventures,Crypto Ventures,5,1.82x,159.62x,"GridZone.io(3.64x ), Pegaxy(2.08x ), Wanaka Farm(1.3x )",2022/11/12
+77,pluto-digital-assets,Project Based,10,1.72x,50.24x,"Moonscape(4.94x ), Decimated(4.24x ), Snook(1.43x )",2022/11/12
+78,moonboots-capital,,4,1.71x,219x,"Moonscape(4.94x ), Dreams Quest(1.03x ), Nakamoto Games(0.78x )",2022/11/12
+79,kyros-ventures,Crypto Ventures,43,1.7x,61.02x,"My Neighbor Alice(24.6x ), X World Games(4.94x ), MetaSoccer(3.18x )",2022/11/12
+80,good-games-guild,Project Based,11,1.68x,32.84x,"Decimated(4.24x ), Heroes Chained(1.11x ), Arenum(0.91x )",2022/11/12
+81,chain-capital,,3,1.67x,56.48x,"X World Games(4.94x ), Gamesta(0.04x ), The Realm Defenders(0.04x )",2022/11/12
+82,three-lions-capital,Crypto Ventures,1,1.61x,61.33x,Affyn(1.61x ),2022/11/12
+83,defiance-capital,Crypto Ventures,18,1.6x,4.32x,"MetaSoccer(3.18x ), Crypto Raiders(0.03x )",2022/11/12
+84,3commas,Crypto Ventures,9,1.6x,31.02x,"Splinterlands(2.97x ), Legends of Mitra(0.23x )",2022/11/12
+85,polkastarter,,3,1.57x,73.5x,"WonderHero(2.58x ), Blockchain Monster Hunt(0.56x )",2022/11/12
+86,megala-ventures,,7,1.55x,122.82x,"My DeFi Pet(3.73x ), Heroes & Empires(0.46x ), PlaceWar(0.46x )",2022/11/12
+87,zbs-capital,Crypto Ventures,60,1.53x,92.03x,"Bloktopia(32.06x ), MonkeyLeague(5.11x ), X World Games(4.94x )",2022/11/12
+88,insignius-capital,Crypto Ventures,7,1.52x,268.73x,"Geopoly(6.02x ), Project SEED(3.07x ), Nakamoto Games(0.78x )",2022/11/12
+89,jump-capital,Crypto Ventures,12,1.51x,77.34x,Metastrike(1.51x ),2022/11/12
+90,gem-capital,Crypto Ventures,5,1.51x,36.53x,"Decimated(4.24x ), ASPO World(0.19x ), Last Survivor(0.09x )",2022/11/12
+91,black-ventures,Crypto Ventures,2,1.5x,165.38x,"Gunstar Metaverse(1.7x ), Wanaka Farm(1.3x )",2022/11/12
+92,huobi-capital,Exchange Fund,12,1.48x,43.45x,"Decimated(4.24x ), Roco Finance(1.13x ), Nitro League(0.36x )",2022/11/12
+93,x21-digital,Crypto Ventures,77,1.47x,103.53x,"Bloktopia(32.06x ), My Neighbor Alice(24.6x ), Geopoly(6.02x )",2022/11/12
+94,marshland-capital,Crypto Ventures,2,1.45x,94.2x,"Realm(1.97x ), DinoX(0.93x )",2022/11/12
+95,pnyx-ventures,Crypto Ventures,2,1.44x,122.8x,Faraland(1.44x ),2022/11/12
+96,dokia-capital,Project Based,1,1.43x,33.1x,Snook(1.43x ),2022/11/12
+97,6th-man-ventures,Crypto Ventures,7,1.43x,33.1x,Snook(1.43x ),2022/11/12
+98,swiss-gem-investments-swgi,Crypto Ventures,1,1.43x,33.1x,Snook(1.43x ),2022/11/12
+99,psquare-capital,,1,1.43x,33.1x,Snook(1.43x ),2022/11/12
+100,spark-digital-capital,Crypto Ventures,23,1.43x,82.19x,"Decimated(4.24x ), My DeFi Pet(3.73x ), Gunstar Metaverse(1.7x )",2022/11/12
+101,spark-digital-capital,Crypto Ventures,23,1.43x,82.19x,"Decimated(4.24x ), My DeFi Pet(3.73x ), Gunstar Metaverse(1.7x )",2022/11/12
+102,zee-prime-capital,,3,1.43x,296x,Crabada(1.43x ),2022/11/12
+103,axia8-ventures,Crypto Ventures,6,1.43x,89.58x,"My DeFi Pet(3.73x ), Starly(1.43x ), Nitro League(0.36x )",2022/11/12
+104,clovers-ventures,Crypto Ventures,4,1.4x,125.9x,"My DeFi Pet(3.73x ), Warena(0.26x ), Zuki Moba(0.2x )",2022/11/12
+105,magnus-capital,Crypto Ventures,46,1.4x,88.86x,"Bloktopia(32.06x ), Realm(1.97x ), Gunstar Metaverse(1.7x )",2022/11/12
+106,moonrock-capital,Crypto Ventures,8,1.39x,47.12x,"Realm(1.97x ), Ternoa(1.52x ), Starly(1.43x )",2022/11/12
+107,banter-capital,Crypto Ventures,16,1.39x,65.54x,"MonkeyLeague(5.11x ), Moonscape(4.94x ), SIDUS(2.13x )",2022/11/12
+108,coincurb,,2,1.36x,40.2x,"Gamestarter(2.09x ), Kaby Arena(0.63x )",2022/11/12
+109,cmc-capital,Crypto Ventures,2,1.35x,119.1x,"SIDUS(2.13x ), Green Beli(0.56x )",2022/11/12
+110,au21-capital,Crypto Ventures,61,1.29x,128.81x,"Bloktopia(32.06x ), Geopoly(6.02x ), Trade Race Manager(2.19x )",2022/11/12
+111,moonknight-labs,Crypto Ventures,1,1.27x,222.67x,Elemon(1.27x ),2022/11/12
+112,cryptonation,Marketing Support,1,1.27x,222.67x,Elemon(1.27x ),2022/11/12
+113,marcius-capital,Crypto Ventures,1,1.26x,35.75x,Polygonum Online(1.26x ),2022/11/12
+114,orion-protocol,Project Based,2,1.26x,215.33x,Chumbi Valley(1.26x ),2022/11/12
+115,solar-eco-fund,,8,1.14x,155.63x,"Cryowar(2.31x ), Space Falcon(0.71x ), Starbots(0.42x )",2022/11/12
+116,ava-labs,,2,1.13x,63.2x,Roco Finance(1.13x ),2022/11/12
+117,ac-capital,,4,1.13x,32.83x,"Gamestarter(2.09x ), Demole(0.2x )",2022/11/12
+118,hoop-ventures,Crypto Ventures,1,1.13x,63.2x,Roco Finance(1.13x ),2022/11/12
+119,vendetta-capital,Crypto Ventures,11,1.12x,117.06x,"Project SEED(3.07x ), Cryowar(2.31x ), Ternoa(1.52x )",2022/11/12
+120,yield-guild-games,Project Based,26,1.12x,21.71x,"Splinterlands(2.97x ), Nitro League(0.36x ), Crypto Raiders(0.03x )",2022/11/12
+121,nodeseeds,Project Based,2,1.12x,8.68x,Wizardia(1.12x ),2022/11/12
+122,bering-waters,,1,1.11x,41.25x,Heroes Chained(1.11x ),2022/11/12
+123,hello-capital,Crypto Ventures,1,1.11x,36.4x,Dark Frontiers(1.11x ),2022/11/12
+124,kosmos-ventures,,2,1.11x,41.25x,Heroes Chained(1.11x ),2022/11/12
+125,avalon-wealth-club,Crypto Ventures,10,1.09x,232.57x,"Geopoly(6.02x ), Revolve Games(0.8x ), Stay In Destiny World(0.51x )",2022/11/12
+126,wings-ventures,Crypto Ventures,4,1.08x,80.62x,"Gunstar Metaverse(1.7x ), Heroes & Empires(0.46x )",2022/11/12
+127,gd10-ventures,Crypto Ventures,27,1.07x,158.78x,"Geopoly(6.02x ), Project SEED(3.07x ), Cryowar(2.31x )",2022/11/12
+128,evangelion-capital,,4,1.06x,28.36x,"Gamestarter(2.09x ), Cryptia(0.04x )",2022/11/12
+129,lavender-capital,Crypto Ventures,5,1.06x,94.24x,"Orbitau(1.39x ), Chumbi Valley(1.26x ), Ftribe Fighters(0.54x )",2022/11/12
+130,sl2-capital,,12,1.05x,206.88x,"Realm(1.97x ), Dreams Quest(1.03x ), Zodium(0.83x )",2022/11/12
+131,peech-capital,,6,1.04x,18.42x,"MetaSoccer(3.18x ), DinoX(0.93x ), Space Falcon(0.71x )",2022/11/12
+132,bullish-unicorn,Marketing Support,1,1.03x,606.66x,Dreams Quest(1.03x ),2022/11/12
+133,twin-apex-capital,,4,1.03x,606.66x,Dreams Quest(1.03x ),2022/11/12
+134,avalaunch,Project Based,6,0.99x,120.86x,"Crabada(1.43x ), Roco Finance(1.13x ), Heroes Chained(1.11x )",2022/11/12
+135,red-beard-ventures,,7,0.98x,86.9x,,2022/11/12
+136,zen-capital,Crypto Ventures,1,0.97x,38.29x,Ertha(0.97x ),2022/11/12
+137,dialectic-capital,,7,0.97x,38.29x,Ertha(0.97x ),2022/11/12
+138,stacker-ventures-dao,Project Based,2,0.96x,25.56x,"Wizardia(1.12x ), Revolve Games(0.8x )",2022/11/12
+139,master-ventures,Crypto Ventures,17,0.95x,85.68x,"Decimated(4.24x ), Cryowar(2.31x ), Metastrike(1.51x )",2022/11/12
+140,dec-ventures,Crypto Ventures,6,0.94x,79.43x,"SIDUS(2.13x ), Wam(1x ), SpaceY 2025(0.5x )",2022/11/12
+141,idoresearch.ventures,Crypto Ventures,3,0.94x,45.26x,"Polygonum Online(1.26x ), Ninneko(0.63x )",2022/11/12
+142,paradigm,,5,0.93x,67.78x,Moo Monster(0.93x ),2022/11/12
+143,almora-capital,Crypto Ventures,4,0.92x,116.15x,"SIDUS(2.13x ), Nunu Spirits(0.61x ), Hydraverse(0.03x )",2022/11/12
+144,paka-capital,,1,0.92x,90.19x,Seascape Crowns(0.92x ),2022/11/12
+145,alphabit-fund,Crypto Ventures,4,0.92x,113.53x,"Realm(1.97x ), Bomb Crypto(0.76x ), DeFi11(0.02x )",2022/11/12
+146,reblock,Marketing Support,10,0.91x,26.36x,"MetaSoccer(3.18x ), Gamestarter(2.09x ), Polygonum Online(1.26x )",2022/11/12
+147,black-dragon,Crypto Ventures,8,0.9x,163.4x,"Project SEED(3.07x ), Dreams Quest(1.03x ), Nakamoto Games(0.78x )",2022/11/12
+148,ibc-group,Crypto Ventures,5,0.9x,66.97x,"GridZone.io(3.64x ), Katana Inu(0.39x ), Spellfire(0.23x )",2022/11/12
+149,tomochain,Project Based,3,0.87x,93.92x,"Wanaka Farm(1.3x ), WidiLand(0.89x ), Starbots(0.42x )",2022/11/12
+150,lua-ventures,Crypto Ventures,4,0.87x,93.92x,"Wanaka Farm(1.3x ), WidiLand(0.89x ), Starbots(0.42x )",2022/11/12
+151,starter-capital,Project Based,3,0.86x,39.72x,"Kryxivia(1.46x ), ProjectOasis(0.98x ), Starchi(0.13x )",2022/11/12
+152,cinch-block,,10,0.86x,87.59x,"Realm(1.97x ), Chumbi Valley(1.26x ), MetaGods(1.04x )",2022/11/12
+153,synapse-ventures,Project Based,6,0.85x,152.3x,"Cryowar(2.31x ), Kyberdyne(0.18x ), Yarloo(0.04x )",2022/11/12
+154,metrix-capital,,15,0.84x,46.09x,"MetaSoccer(3.18x ), Snook(1.43x ), Polygonum Online(1.26x )",2022/11/12
+155,momentum-6,Crypto Ventures,35,0.83x,91.96x,"Moonscape(4.94x ), My DeFi Pet(3.73x ), Pegaxy(2.08x )",2022/11/12
+156,gains-associates,,20,0.83x,73.58x,"Decimated(4.24x ), Project SEED(3.07x ), Metastrike(1.51x )",2022/11/12
+157,dao-maker,Project Based,24,0.83x,40.36x,"MetaSoccer(3.18x ), Gamestarter(2.09x ), Gunstar Metaverse(1.7x )",2022/11/12
+158,evernew-capital,Crypto Ventures,2,0.83x,73.18x,Zodium(0.83x ),2022/11/12
+159,bybit,,2,0.83x,73.18x,Zodium(0.83x ),2022/11/12
+160,cryptothugs-capital,Crypto Ventures,3,0.82x,97.77x,"Elemon(1.27x ), H3RO3S(0.81x ), Monsta Infinite(0.37x )",2022/11/12
+161,okex-blockdream-ventures,Exchange Fund,14,0.82x,54.1x,"My DeFi Pet(3.73x ), Celestial(2.29x ), Heroes Chained(1.11x )",2022/11/12
+162,hodl,Crypto Ventures,1,0.8x,42.44x,Revolve Games(0.8x ),2022/11/12
+163,kucoin-labs,Exchange Fund,11,0.8x,121.32x,"Chumbi Valley(1.26x ), Happy Land(0.34x )",2022/11/12
+164,seedify,Crypto Ventures,3,0.8x,39.5x,"Metastrike(1.51x ), Last Survivor(0.09x )",2022/11/12
+165,brilliance-ventures,,2,0.78x,27.74x,"Snook(1.43x ), TryHards(0.12x )",2022/11/12
+166,ld-capital,Crypto Ventures,34,0.78x,51.28x,"Realm(1.97x ), Starly(1.43x ), Orbitau(1.39x )",2022/11/12
+167,alves-ventures,Crypto Ventures,1,0.78x,55.92x,Nakamoto Games(0.78x ),2022/11/12
+168,gamestarter,Project Based,2,0.78x,25.46x,"Dark Frontiers(1.11x ), KingdomX(0.46x )",2022/11/12
+169,gate.io-labs,Exchange Fund,12,0.77x,35.36x,"Splinterlands(2.97x ), Wam(1x ), Infinity Skies(0.18x )",2022/11/12
+170,kardia-ventures,,9,0.77x,81.64x,"My DeFi Pet(3.73x ), Bomb Crypto(0.76x ), OneRare(0.54x )",2022/11/12
+171,onblock-ventures,Crypto Ventures,3,0.76x,110.99x,"Chumbi Valley(1.26x ), Cowboy Snake(0.26x )",2022/11/12
+172,tk-ventures,Crypto Ventures,15,0.75x,97.72x,"Pegaxy(2.08x ), Wanaka Farm(1.3x ), Elemon(1.27x )",2022/11/12
+173,trustdao-capital,Crypto Ventures,2,0.75x,123.57x,"Elemon(1.27x ), BaconDAO(0.23x )",2022/11/12
+174,bullishblock-capital,Crypto Ventures,3,0.74x,58.13x,"Affyn(1.61x ), SpaceY 2025(0.5x ), Monster Battle(0.1x )",2022/11/12
+175,ghaf-capital,Crypto Ventures,1,0.74x,46.37x,MetaGaming Guild(0.75x ),2022/11/12
+176,dutch-crypto-investors,Crypto Ventures,47,0.73x,82.7x,"Geopoly(6.02x ), Decimated(4.24x ), Project SEED(3.07x )",2022/11/12
+177,rok-capital,Crypto Ventures,7,0.72x,53.84x,"Heroes Chained(1.11x ), Zodium(0.83x ), Mech Master(0.21x )",2022/11/12
+178,raptor-capital,,19,0.7x,65.84x,"Gunstar Metaverse(1.7x ), Polygonum Online(1.26x ), Chumbi Valley(1.26x )",2022/11/12
+179,blockchain-israel,,1,0.7x,108.63x,Arker(0.7x ),2022/11/12
+180,aventures-dao,Crypto Ventures,3,0.69x,62.12x,"Heroes Chained(1.11x ), TaleCraft(0.27x )",2022/11/12
+181,roseon-finance,Crypto Ventures,9,0.69x,87.29x,"Cryowar(2.31x ), Wizardia(1.12x ), Moniwar(0.28x )",2022/11/12
+182,lupa-x-capital,,5,0.68x,51.72x,"Snook(1.43x ), DinoX(0.93x ), Nunu Spirits(0.61x )",2022/11/12
+183,asteroid-capital,Crypto Ventures,10,0.67x,57.69x,"SIDUS(2.13x ), Pegaxy(2.08x ), Chumbi Valley(1.26x )",2022/11/12
+184,lucidblue-ventures,Crypto Ventures,12,0.67x,17.41x,"Ternoa(1.52x ), Wam(1x ), TryHards(0.12x )",2022/11/12
+185,double-peak,,18,0.66x,52.63x,"Dark Frontiers(1.11x ), Wam(1x ), MetaGaming Guild(0.75x )",2022/11/12
+186,panda-capital,,11,0.66x,108.83x,"Project SEED(3.07x ), Titan Hunters(0.9x ), Stay In Destiny World(0.51x )",2022/11/12
+187,polkafoundry,Project Based,2,0.66x,340.08x,"Dreams Quest(1.03x ), Bemil(0.28x )",2022/11/12
+188,newtribe-capital,Crypto Ventures,3,0.65x,19.78x,"Arenum(0.91x ), Katana Inu(0.39x )",2022/11/12
+189,thinksmart-brother,Marketing Support,3,0.64x,51.73x,"Affyn(1.61x ), Zuki Moba(0.2x ), Monster Battle(0.1x )",2022/11/12
+190,faculty-capital,Crypto Ventures,4,0.64x,26.63x,"MetaGods(1.04x ), Spellfire(0.23x )",2022/11/12
+191,basics-capital,Crypto Ventures,41,0.63x,68.7x,"Moonscape(4.94x ), Cryowar(2.31x ), Ternoa(1.52x )",2022/11/12
+192,icetea-labs,Crypto Ventures,36,0.63x,65.12x,"WonderHero(2.58x ), Gunstar Metaverse(1.7x ), Faraland(1.44x )",2022/11/12
+193,titans-ventures,Crypto Ventures,24,0.63x,88.89x,"Decimated(4.24x ), Cryowar(2.31x ), Moo Monster(0.93x )",2022/11/12
+194,mc-ventures-muhabbit,Crypto Ventures,4,0.62x,30.08x,"Heroes Chained(1.11x ), YAY Games(0.14x )",2022/11/12
+195,signal-ventures,Crypto Ventures,5,0.62x,81.31x,"Wam(1x ), Nakamoto Games(0.78x ), Good Games Guild(0.54x )",2022/11/12
+196,kommunitas,Crypto Ventures,7,0.61x,68.7x,"Affyn(1.61x ), TryHards(0.12x ), The Killbox(0.09x )",2022/11/12
+197,plutus.vc,,2,0.6x,327.41x,"Dreams Quest(1.03x ), Defina(0.16x )",2022/11/12
+198,maximus-capital,Crypto Ventures,2,0.6x,28.66x,"H3RO3S(0.81x ), Crypto Fight Club(0.4x )",2022/11/12
+199,coinunited-capital,,4,0.59x,66.68x,"MetaGods(1.04x ), MetaWars(0.41x ), The Three Kingdoms(0.33x )",2022/11/12
+200,keychain-capital,Crypto Ventures,1,0.57x,27.26x,Imperium Empires(0.57x ),2022/11/12
+201,avatar,Crypto Ventures,1,0.57x,27.26x,Imperium Empires(0.57x ),2022/11/12
+202,aampt-capital,,3,0.57x,27.26x,Imperium Empires(0.57x ),2022/11/12
+203,keychain-capital,Crypto Ventures,1,0.57x,27.26x,Imperium Empires(0.57x ),2022/11/12
+204,tokenova,Crypto Ventures,2,0.56x,37.76x,"Moo Monster(0.93x ), Attack Wagon(0.21x )",2022/11/12
+205,everse-capital,Crypto Ventures,19,0.56x,72.7x,"Cryowar(2.31x ), Kryxivia(1.46x ), Chumbi Valley(1.26x )",2022/11/12
+206,dweb3-capital,,20,0.56x,45.82x,"Dark Frontiers(1.11x ), Zodium(0.83x ), Blockchain Monster Hunt(0.56x )",2022/11/12
+207,heco-chain,,1,0.56x,140.66x,Blockchain Monster Hunt(0.56x ),2022/11/12
+208,interchain-ventures,Crypto Ventures,3,0.56x,32.65x,"DinoX(0.93x ), Demole(0.2x )",2022/11/12
+209,rr2-capital,Crypto Ventures,12,0.55x,93.7x,"Cryowar(2.31x ), xHashtag(0.64x ), Ninneko(0.63x )",2022/11/12
+210,7-oclock-capital,Crypto Ventures,4,0.54x,32.47x,"Arenum(0.91x ), Defina(0.16x )",2022/11/12
+211,stable-node,Crypto Ventures,3,0.54x,14.61x,OneRare(0.54x ),2022/11/12
+212,nabais-capital,,3,0.52x,56.29x,"Seascape Crowns(0.92x ), TryHards(0.12x )",2022/11/12
+213,grizzly-capital,,4,0.52x,7.72x,"Wam(1x ), Gamesta(0.04x )",2022/11/12
+214,coinf-ventures,Crypto Ventures,3,0.51x,91.02x,"Bomb Crypto(0.76x ), Cowboy Snake(0.26x )",2022/11/12
+215,verichains-lab,Developers Support,1,0.51x,14.52x,Stay In Destiny World(0.51x ),2022/11/12
+216,fenbushi-capital,Crypto Ventures,4,0.5x,108.23x,SpaceY 2025(0.5x ),2022/11/12
+217,zonff-partners,,3,0.5x,108.23x,SpaceY 2025(0.5x ),2022/11/12
+218,exnetwork-capital,Crypto Ventures,58,0.5x,56.13x,"Project SEED(3.07x ), Metastrike(1.51x ), Faraland(1.44x )",2022/11/12
+219,hg-ventures-das-kapital,Crypto Ventures,15,0.5x,64.22x,"Ternoa(1.52x ), Elemon(1.27x ), Ertha(0.97x )",2022/11/12
+220,privcode-capital-mexc-exchange,Exchange Fund,4,0.5x,33.4x,"Orbitau(1.39x ), Gaia Everworld(0.35x ), Meta Spatial(0.19x )",2022/11/12
+221,crypto-tamil-ventures,Crypto Ventures,2,0.49x,8.8x,"Arenum(0.91x ), CheersLand(0.07x )",2022/11/12
+222,coincu-ventures,Crypto Ventures,7,0.49x,31.94x,"Orbitau(1.39x ), MetaGear(0.59x ), GemUni(0.26x )",2022/11/12
+223,duckdao,Project Based,12,0.48x,119.29x,"Wanaka Farm(1.3x ), Dreams Quest(1.03x ), Monsters Clan(0.46x )",2022/11/12
+224,brotherhood-ventures,Crypto Ventures,6,0.48x,21.21x,"Affyn(1.61x ), Monsta Infinite(0.37x ), Attack Wagon(0.21x )",2022/11/12
+225,kyber-network,Project Based,11,0.48x,66.52x,"Wanaka Farm(1.3x ), Starbots(0.42x ), Elpis Battle(0.36x )",2022/11/12
+226,red-hat-capital,Crypto Ventures,8,0.48x,60.91x,"Affyn(1.61x ), Ninneko(0.63x ), MetaGear(0.59x )",2022/11/12
+227,shinchan-group,Crypto Ventures,2,0.48x,16.14x,"WidiLand(0.89x ), Kawaii Islands(0.06x )",2022/11/12
+228,fomocraft-ventures,Marketing Support,16,0.47x,63x,"Faraland(1.44x ), Elemon(1.27x ), Roco Finance(1.13x )",2022/11/12
+229,onebit-ventures,Crypto Ventures,15,0.45x,62.98x,"SIDUS(2.13x ), Elemon(1.27x ), Green Beli(0.56x )",2022/11/12
+230,mayor-capital,Crypto Ventures,2,0.44x,37.52x,"Ninneko(0.63x ), HeroFi(0.26x )",2022/11/12
+231,legion-ventures,Crypto Ventures,18,0.44x,31.39x,"SIDUS(2.13x ), Snook(1.43x ), Nakamoto Games(0.78x )",2022/11/12
+232,skybridge-20-ventures,Crypto Ventures,2,0.43x,22.22x,"Monsters Clan(0.46x ), Crypto Fight Club(0.4x )",2022/11/12
+233,fairum,Crypto Ventures,4,0.42x,30.98x,"Nakamoto Games(0.78x ), CryptoTanks(0.43x ), Battle Saga(0.06x )",2022/11/12
+234,solana-eco-fund,Project Based,1,0.42x,3.1x,Starbots(0.42x ),2022/11/12
+235,dct-capital,Crypto Ventures,6,0.42x,15.69x,"Kryxivia(1.46x ), Monster Battle(0.1x ), CheersLand(0.07x )",2022/11/12
+236,defi-alliance,Crypto Ventures,3,0.42x,3.1x,Starbots(0.42x ),2022/11/12
+237,poolz,Project Based,18,0.42x,50.53x,"Pegaxy(2.08x ), Wanaka Farm(1.3x ), Metarun(0.65x )",2022/11/12
+238,kretos-ventures,Marketing Support,4,0.42x,52.06x,"MetaGear(0.59x ), SpaceY 2025(0.5x ), Kyberdyne(0.18x )",2022/11/12
+239,bigcoin-capital,Crypto Ventures,7,0.41x,42.64x,"Nunu Spirits(0.61x ), The Wasted Lands(0.45x ), Starbots(0.42x )",2022/11/12
+240,bullperks,Project Based,13,0.4x,22.92x,"Kryxivia(1.46x ), MetaGear(0.59x ), Crypto Fight Club(0.4x )",2022/11/12
+241,girnas-capital,Crypto Ventures,1,0.39x,22.75x,Katana Inu(0.39x ),2022/11/12
+242,gemslab-ventures,Crypto Ventures,3,0.38x,32.36x,"Ninneko(0.63x ), Galaxy War(0.12x )",2022/11/12
+243,oxbull,Project Based,4,0.38x,107.83x,"Wanaka Farm(1.3x ), Space Sip(0.11x ), The Monopolist(0.06x )",2022/11/12
+244,unanimous-capital,Non-Crypto Capital,4,0.38x,10.28x,"Space Falcon(0.71x ), The Realm Defenders(0.04x )",2022/11/12
+245,1010-capital,Non-Crypto Capital,2,0.38x,57.08x,"Kaby Arena(0.63x ), Step Hero(0.14x )",2022/11/12
+246,dreamboat-capital,Crypto Ventures,18,0.37x,51.47x,"Metastrike(1.51x ), WidiLand(0.89x ), Bomb Crypto(0.76x )",2022/11/12
+247,ego-crypto,Crypto Ventures,1,0.37x,31.17x,Monsta Infinite(0.37x ),2022/11/12
+248,oddiyana-ventures,Crypto Ventures,10,0.37x,14.39x,"Cricket Star Manager(1.06x ), WidiLand(0.89x ), Himo World(0.53x )",2022/11/12
+249,bsc-station,Project Based,7,0.37x,33.47x,"WidiLand(0.89x ), Zombie World Z(0.43x ), Oly Sport(0.23x )",2022/11/12
+250,azer-capital,Crypto Ventures,6,0.37x,41.28x,"Nunu Spirits(0.61x ), Himo World(0.53x ), Kingdom Karnage(0.27x )",2022/11/12
+251,kirin-fund,,2,0.37x,31.17x,Monsta Infinite(0.37x ),2022/11/12
+252,dreamboat-capital,Crypto Ventures,18,0.37x,51.47x,"Metastrike(1.51x ), WidiLand(0.89x ), Bomb Crypto(0.76x )",2022/11/12
+253,sotatek,Developers Support,2,0.36x,21.44x,Elpis Battle(0.36x ),2022/11/12
+254,chronos-ventures,,10,0.36x,21.4x,"Titan Hunters(0.9x ), Stay In Destiny World(0.51x ), Kingdom Karnage(0.27x )",2022/11/12
+255,defi-capital,,6,0.36x,21.44x,Elpis Battle(0.36x ),2022/11/12
+256,avstar-capital,Crypto Ventures,34,0.36x,57.84x,"Elemon(1.27x ), Moo Monster(0.93x ), Titan Hunters(0.9x )",2022/11/12
+257,halvings-capital,Crypto Ventures,11,0.36x,29.64x,"H3RO3S(0.81x ), MetaGaming Guild(0.75x ), Oly Sport(0.23x )",2022/11/12
+258,extra-watts,Crypto Ventures,1,0.36x,3.67x,Nitro League(0.36x ),2022/11/12
+259,woodstock-fund,Crypto Ventures,2,0.36x,3.67x,Nitro League(0.36x ),2022/11/12
+260,lancer-capital,Crypto Ventures,3,0.34x,66.76x,"SpaceY 2025(0.5x ), Legend of Fantasy War(0.17x )",2022/11/12
+261,kryptos-research,,1,0.34x,27.31x,Happy Land(0.34x ),2022/11/12
+262,lighthouse-ventures,Crypto Ventures,2,0.34x,37.42x,"Ftribe Fighters(0.54x ), Galactic Arena: The NFTverse(0.15x )",2022/11/12
+263,bbs-finance,Crypto Ventures,4,0.34x,9.44x,"Metarun(0.65x ), Monsters Clan(0.46x ), Kyberdyne(0.18x )",2022/11/12
+264,linkpad-vc,Crypto Ventures,1,0.33x,43x,The Three Kingdoms(0.33x ),2022/11/12
+265,boxmining,Marketing Support,1,0.33x,43x,The Three Kingdoms(0.33x ),2022/11/12
+266,csp-dao,,11,0.32x,24.34x,"H3RO3S(0.81x ), OneRare(0.54x ), Crypto Fight Club(0.4x )",2022/11/12
+267,minted-lab,Crypto Ventures,5,0.32x,37.9x,"ProjectOasis(0.98x ), Hero Arena(0.17x ), Starchi(0.13x )",2022/11/12
+268,infinity-capital,Marketing Support,8,0.32x,52.36x,"Elemon(1.27x ), HeroFi(0.26x ), Warena(0.26x )",2022/11/12
+269,vbc-ventures,,19,0.31x,25.83x,"Moo Monster(0.93x ), RaceFi(0.62x ), Green Beli(0.56x )",2022/11/12
+270,babylons,Project Based,7,0.31x,67.31x,"Wanaka Farm(1.3x ), TaleCraft(0.27x ), ECIO Space(0.24x )",2022/11/12
+271,rd-labs-rug-detectives,Project Based,2,0.3x,16.28x,"9D NFT(0.46x ), Starchi(0.13x )",2022/11/12
+272,deltahub-capital,Crypto Ventures,6,0.3x,32.1x,"Crypto Fight Club(0.4x ), GemGuardian(0.2x )",2022/11/12
+273,arkstream-capital,,5,0.28x,13.29x,"OneRare(0.54x ), Cryptia(0.04x )",2022/11/12
+274,lvt-capital,Non-Crypto Capital,4,0.28x,21.42x,"CryptoTanks(0.43x ), Katana Inu(0.39x ), Chimeras(0.04x )",2022/11/12
+275,red-kite,Project Based,10,0.28x,30.86x,"Ftribe Fighters(0.54x ), Bemil(0.28x ), Warena(0.26x )",2022/11/12
+276,waterdrip-capital,Crypto Ventures,4,0.28x,6.06x,"The Wasted Lands(0.45x ), Soccer Hub(0.11x )",2022/11/12
+277,parsiq,Project Based,2,0.28x,3.22x,"Starbots(0.42x ), Universe Island(0.15x )",2022/11/12
+278,skyx,Crypto Ventures,1,0.27x,4.03x,Kingdom Karnage(0.27x ),2022/11/12
+279,ub-ventures,Crypto Ventures,2,0.27x,27.52x,"Moniwar(0.28x ), HeroFi(0.26x )",2022/11/12
+280,apollo-capital,,2,0.27x,4.03x,Kingdom Karnage(0.27x ),2022/11/12
+281,alpha-moon-capital,Crypto Ventures,21,0.27x,56.92x,"WidiLand(0.89x ), H3RO3S(0.81x ), Bomb Crypto(0.76x )",2022/11/12
+282,ferrum-network,Project Based,1,0.27x,83x,TaleCraft(0.27x ),2022/11/12
+283,smo-capital,,7,0.26x,44.5x,"MetaGear(0.59x ), Happy Land(0.34x ), The Three Kingdoms(0.33x )",2022/11/12
+284,genesis-builders-fund,Developers Support,1,0.26x,40.67x,Warena(0.26x ),2022/11/12
+285,paid-network,Project Based,1,0.26x,40.67x,Warena(0.26x ),2022/11/12
+286,arc-ventures,Crypto Ventures,1,0.26x,6.65x,Cowboy Snake(0.26x ),2022/11/12
+287,infinity-gainz,,3,0.26x,59.35x,"MetaWars(0.41x ), Monster Battle(0.1x )",2022/11/12
+288,kv-ventures,Crypto Ventures,6,0.26x,53.96x,"Zombie World Z(0.43x ), Space Crypto(0.39x ), Elpis Battle(0.36x )",2022/11/12
+289,lotus-capital,Crypto Ventures,9,0.26x,22.16x,"H3RO3S(0.81x ), 9D NFT(0.46x ), KingSpeed(0.26x )",2022/11/12
+290,crypto-dorm-fund,Crypto Ventures,1,0.26x,6.52x,KingSpeed(0.26x ),2022/11/12
+291,wildcat-ventures,Non-Crypto Capital,6,0.25x,75.56x,"Bomb Crypto(0.76x ), Moniwar(0.28x ), Zuki Moba(0.2x )",2022/11/12
+292,ss-ventures,Crypto Ventures,4,0.25x,37.03x,"Green Beli(0.56x ), Galactic Arena: The NFTverse(0.15x ), Pocoland(0.04x )",2022/11/12
+293,gamefi,Project Based,10,0.24x,30.46x,"Ftribe Fighters(0.54x ), Bemil(0.28x ), Warena(0.26x )",2022/11/12
+294,iconium,,1,0.24x,6.58x,ECIO Space(0.24x ),2022/11/12
+295,seed-thrift-ventures,Crypto Ventures,8,0.24x,19.89x,"Ninneko(0.63x ), Crypto Fight Club(0.4x ), Katana Inu(0.39x )",2022/11/12
+296,bca-investment,Crypto Ventures,6,0.24x,21.96x,"Katana Inu(0.39x ), Monsta Infinite(0.37x ), Attack Wagon(0.21x )",2022/11/12
+297,mochi-market,Exchange Fund,1,0.24x,6.58x,ECIO Space(0.24x ),2022/11/12
+298,dext-force-ventures,,6,0.24x,16.3x,"Crypto Fight Club(0.4x ), Happy Land(0.34x ), Infinity Skies(0.18x )",2022/11/12
+299,signum-capital,,12,0.23x,14.45x,"KingdomX(0.46x ), Elpis Battle(0.36x ), Kawaii Islands(0.06x )",2022/11/12
+300,nebula-ventures,Crypto Ventures,1,0.23x,24.47x,BaconDAO(0.23x ),2022/11/12
+301,nebula-ventures,Crypto Ventures,1,0.23x,24.47x,BaconDAO(0.23x ),2022/11/12
+302,youbi-capital,,4,0.22x,24.98x,"Legends of Mitra(0.23x ), Mech Master(0.21x )",2022/11/12
+303,mih-ventures,Crypto Ventures,1,0.21x,47.09x,Mech Master(0.21x ),2022/11/12
+304,redcave-ventures,Crypto Ventures,3,0.21x,7.75x,Attack Wagon(0.21x ),2022/11/12
+305,a2dao,Project Based,1,0.2x,15.21x,Knight War(0.2x ),2022/11/12
+306,onemax-capital,Crypto Ventures,3,0.2x,48.12x,"Mech Master(0.21x ), ASPO World(0.19x )",2022/11/12
+307,krypital-group,Crypto Ventures,4,0.2x,89.03x,Zuki Moba(0.2x ),2022/11/12
+308,blockpact-capital,Crypto Ventures,2,0.2x,5.92x,"Rise of Defenders(0.24x ), Universe Island(0.15x )",2022/11/12
+309,bas-ventures,Crypto Ventures,4,0.2x,66.68x,"Space Crypto(0.39x ), Cowboy Snake(0.26x ), Heroes TD(0.12x )",2022/11/12
+310,ufin,Crypto Ventures,3,0.2x,68.72x,"Moniwar(0.28x ), Heroes TD(0.12x )",2022/11/12
+311,ava-capital,Crypto Ventures,2,0.19x,22.52x,"Moniwar(0.28x ), TapMe(0.1x )",2022/11/12
+312,aussie-capital,Crypto Ventures,4,0.19x,12.76x,"Katana Inu(0.39x ), Attack Wagon(0.21x ), TapMe(0.1x )",2022/11/12
+313,cfl-venture-group,Crypto Ventures,1,0.19x,49.14x,ASPO World(0.19x ),2022/11/12
+314,cabo-capital,Non-Crypto Capital,1,0.19x,49.14x,ASPO World(0.19x ),2022/11/12
+315,4sv,Crypto Ventures,3,0.18x,6.32x,"Rise of Defenders(0.24x ), Metan Evolutions(0.12x )",2022/11/12
+316,br-capital,Crypto Ventures,3,0.18x,7.28x,Infinity Skies(0.18x ),2022/11/12
+317,global-key-investment,Crypto Ventures,2,0.18x,2.54x,Kyberdyne(0.18x ),2022/11/12
+318,ug-ventures,Crypto Ventures,4,0.17x,38.17x,HeroVerse(0.17x ),2022/11/12
+319,mh-ventures,Crypto Ventures,2,0.17x,9.21x,Astro Verse(0.17x ),2022/11/12
+320,infinity-ventures-crypto,Crypto Ventures,23,0.16x,8.24x,"Nitro League(0.36x ), Dogeon(0.08x ), MetaRacers(0.04x )",2022/11/12
+321,kangaroo-capital,Crypto Ventures,9,0.16x,17.86x,"Crypto Fight Club(0.4x ), TaleCraft(0.27x ), Universe Island(0.15x )",2022/11/12
+322,r8-capital,,4,0.16x,5.92x,"Rise of Defenders(0.24x ), Ancient Kingdom(0.08x )",2022/11/12
+323,bitrise-capital,Crypto Ventures,1,0.16x,48.15x,Defina(0.16x ),2022/11/12
+324,bonfire-ventures,Non-Crypto Capital,4,0.16x,48.15x,Defina(0.16x ),2022/11/12
+325,hyperchain-capital,,7,0.15x,14.43x,"Elpis Battle(0.36x ), Kawaii Islands(0.06x ), Cryptia(0.04x )",2022/11/12
+326,bmw-capital,,3,0.15x,3.85x,"Zomfi(0.23x ), Universe Island(0.15x ), Dogeon(0.08x )",2022/11/12
+327,there-exists-ventures,Crypto Ventures,2,0.14x,18.89x,YAY Games(0.14x ),2022/11/12
+328,mizuki-capital,Crypto Ventures,1,0.14x,18.89x,YAY Games(0.14x ),2022/11/12
+329,bluebridgefinancial,,1,0.14x,27.46x,Aluna Social(0.14x ),2022/11/12
+330,empire-global-partners,Crypto Ventures,1,0.13x,16.7x,Starchi(0.13x ),2022/11/12
+331,chainstride-capital,,2,0.12x,10.28x,"Starchi(0.13x ), Scotty Beam(0.1x )",2022/11/12
+332,qu-ventures,Crypto Ventures,1,0.12x,9.97x,Galaxy War(0.12x ),2022/11/12
+333,bsc-news,,3,0.12x,24.97x,"GemGuardian(0.2x ), Hydraverse(0.03x )",2022/11/12
+334,bluemoon-venture-capital,Crypto Ventures,1,0.11x,8.09x,Soccer Hub(0.11x ),2022/11/12
+335,phoenix-crypto-vc,Crypto Ventures,2,0.1x,83.2x,"Space Sip(0.11x ), World of Defish(0.08x )",2022/11/12
+336,moondot-capital,,2,0.1x,83.2x,"Space Sip(0.11x ), World of Defish(0.08x )",2022/11/12
+337,asteroid-ventures,Crypto Ventures,1,0.1x,4.83x,Monster Battle(0.1x ),2022/11/12
+338,cyberfi,Project Based,1,0.1x,3.86x,Scotty Beam(0.1x ),2022/11/12
+339,azcoinvest,Crypto Ventures,1,0.09x,1.66x,Last Survivor(0.09x ),2022/11/12
+340,enjinstarter,Project Based,4,0.09x,1.66x,Last Survivor(0.09x ),2022/11/12
+341,whitelist-ru,Marketing Support,4,0.09x,6.84x,"Kyberdyne(0.18x ), Pocoland(0.04x ), Yarloo(0.04x )",2022/11/12
+342,weehodl,Crypto Ventures,1,0.09x,122.4x,The Killbox(0.09x ),2022/11/12
+343,hafen-ventures,Crypto Ventures,2,0.08x,3.64x,Dogeon(0.08x ),2022/11/12
+344,j8-capital,Non-Crypto Capital,2,0.07x,0.78x,CheersLand(0.07x ),2022/11/12
+345,intr-ventures,Crypto Ventures,4,0.07x,42.4x,"Monster Battle(0.1x ), The Killbox(0.09x ), CheersLand(0.07x )",2022/11/12
+346,regain-ventures,Crypto Ventures,1,0.07x,0.78x,CheersLand(0.07x ),2022/11/12
+347,imba,Developers Support,1,0.06x,9.88x,Kawaii Islands(0.06x ),2022/11/12
+348,darkpool-ventures,,1,0.06x,12.57x,The Monopolist(0.06x ),2022/11/12
+349,fomo-chronicles,Project Based,1,0.06x,12.57x,The Monopolist(0.06x ),2022/11/12
+350,oraichain,Project Based,1,0.06x,9.88x,Kawaii Islands(0.06x ),2022/11/12
+351,ctg-capital,Crypto Ventures,2,0.06x,4.51x,Battle Saga(0.06x ),2022/11/12
+352,traveler-capital,Crypto Ventures,3,0.06x,10.19x,"Last Survivor(0.09x ), MetaRacers(0.04x ), Age Of Tanks(0.04x )",2022/11/12
+353,cointcs-ventures,Crypto Ventures,1,0.06x,4.51x,Battle Saga(0.06x ),2022/11/12
+354,mapleblock,Crypto Ventures,4,0.05x,10.92x,"Kawaii Islands(0.06x ), Cryptia(0.04x )",2022/11/12
+355,maven-11-capital,Crypto Ventures,4,0.04x,6.06x,The Realm Defenders(0.04x ),2022/11/12
+356,chain-ridge-capital,Crypto Ventures,2,0.04x,9x,Chimeras(0.04x ),2022/11/12
+357,dream-ventures-ph,Crypto Ventures,1,0.04x,11.54x,Age Of Tanks(0.04x ),2022/11/12
+358,coin-tv,Marketing Support,1,0.04x,12.9x,Pocoland(0.04x ),2022/11/12
+359,avisa-ventures-capital,Crypto Ventures,1,0.04x,5.08x,Yarloo(0.04x ),2022/11/12
+360,kylin-network,Project Based,1,0.03x,41.59x,Real Realm(0.03x ),2022/11/12
+361,nonceblox,Developers Support,1,0.02x,21.19x,DeFi11(0.02x ),2022/11/12
+362,biconomy,Project Based,1,0.02x,21.19x,DeFi11(0.02x ),2022/11/12
+363,launchpool,Project Based,2,0.02x,21.19x,DeFi11(0.02x ),2022/11/12
+364,defied-bank,Project Based,1,0.02x,21.19x,DeFi11(0.02x ),2022/11/12
+365,tdefi,Crypto Ventures,1,0.02x,21.19x,DeFi11(0.02x ),2022/11/12
+366,ccix-global,Crypto Ventures,2,0.01x,13.84x,FuruKuru(0.01x ),2022/11/12
+367,mvstmg,Crypto Ventures,-,-,-,,2022/11/12
+368,choi-ventures,Crypto Ventures,-,-,-,,2022/11/12
+369,andromeda-capital,Crypto Ventures,-,-,-,,2022/11/12
+370,sino-global-capital,Crypto Ventures,-,-,-,,2022/11/12
+371,hillrise-ventures,Crypto Ventures,-,-,-,,2022/11/12
+372,lanaxy-group,,-,-,-,,2022/11/12
+373,chain-catcher,,-,-,-,,2022/11/12
+374,petrock-capital,Crypto Ventures,-,-,-,,2022/11/12
+375,inclusion-capital,,-,-,-,,2022/11/12
+376,bscdaily,Marketing Support,-,-,-,,2022/11/12
+377,astronaut-capital,,-,-,-,,2022/11/12
+378,dextools,Developers Support,-,-,-,,2022/11/12
+379,solana-foundation,,-,-,-,,2022/11/12
+380,switchboard,Project Based,-,-,-,,2022/11/12
+381,hc-capital,Crypto Ventures,-,-,-,,2022/11/12
+382,pantera-capital,Crypto Ventures,-,-,-,,2022/11/12
+383,cmt-digital,Crypto Ventures,-,-,-,,2022/11/12
+384,fundamental-labs,Crypto Ventures,-,-,-,,2022/11/12
+385,collabcurrency,Crypto Ventures,-,-,-,,2022/11/12
+386,valhalla-capital,Crypto Ventures,-,-,-,,2022/11/12
+387,konvoy-ventures,Crypto Ventures,-,-,-,,2022/11/12
+388,old-fashion-research,Crypto Ventures,-,-,-,,2022/11/12
+389,black-mamba-ventures,,-,-,-,,2022/11/12
+390,solanium,Project Based,-,-,-,,2022/11/12
+391,cipholio-ventures,Crypto Ventures,-,-,-,,2022/11/12
+392,dragonfly-capital,Crypto Ventures,-,-,-,,2022/11/12
+393,arrington-xrp-capital,Project Based,-,-,-,,2022/11/12
+394,sfermion,,-,-,-,,2022/11/12
+395,dcg-group,,-,-,-,,2022/11/12
+396,gsr,,-,-,-,,2022/11/12
+397,0xventures,Crypto Ventures,-,-,-,,2022/11/12
+398,primeblock-ventures,Crypto Ventures,-,-,-,,2022/11/12
+399,chainflow-capital,Crypto Ventures,-,-,-,,2022/11/12
+400,bitcoin.com,,-,-,-,,2022/11/12
+401,bitmart,Exchange Fund,-,-,-,,2022/11/12
+402,near-foundation,Project Based,-,-,-,,2022/11/12
+403,499-block,Crypto Ventures,-,-,-,,2022/11/12
+404,newave-capital,Crypto Ventures,-,-,-,,2022/11/12
+405,crypto.com-capital,Exchange Fund,-,-,-,,2022/11/12
+406,coinbase-ventures,Exchange Fund,-,-,-,,2022/11/12
+407,hashkey-capital,Crypto Ventures,-,-,-,,2022/11/12
+408,mm-ventures,Crypto Ventures,-,-,-,,2022/11/12
+409,ybb-foundation,Crypto Ventures,-,-,-,,2022/11/12
+410,follow-the-seed,Crypto Ventures,-,-,-,,2022/11/12
+411,synaps,Project Based,-,-,-,,2022/11/12
+412,digital-strategies,,-,-,-,,2022/11/12
+413,impossible-finance,Project Based,-,-,-,,2022/11/12
+414,ht-ventures,Crypto Ventures,-,-,-,,2022/11/12
+415,gfs-ventures,,-,-,-,,2022/11/12
+416,foresight-ventures,Crypto Ventures,-,-,-,,2022/11/12
+417,existential-capital,Crypto Ventures,-,-,-,,2022/11/12
+418,drops-ventures,,-,-,-,,2022/11/12
+419,gta-ventures,Crypto Ventures,-,-,-,,2022/11/12
+420,launch-zone,Project Based,-,-,-,,2022/11/12
+421,op-crypto,,-,-,-,,2022/11/12
+422,citizenx-crypto-ventures,Crypto Ventures,-,-,-,,2022/11/12
+423,formless-capital,Crypto Ventures,-,-,-,,2022/11/12
+424,gcrypto,Marketing Support,-,-,-,,2022/11/12
+425,fabric-ventures,,-,-,-,,2022/11/12
+426,lambo-capital,Crypto Ventures,-,-,-,,2022/11/12
+427,onchain-capital,,-,-,-,,2022/11/12
+428,safelaunch,Project Based,-,-,-,,2022/11/12
+429,b21-capital,Project Based,-,-,-,,2022/11/12
+430,chainboost,Project Based,-,-,-,,2022/11/12
+431,moonedge,Crypto Ventures,-,-,-,,2022/11/12
+432,bayz,Project Based,-,-,-,,2022/11/12
+433,atelier-ventures,,-,-,-,,2022/11/12
+434,blockventure,Crypto Ventures,-,-,-,,2022/11/12
+435,coinervn,Marketing Support,-,-,-,,2022/11/12
+436,desi-crypto-trades,Marketing Support,-,-,-,,2022/11/12
+437,paragen,Project Based,-,-,-,,2022/11/12
+438,play-ventures,Crypto Ventures,-,-,-,,2022/11/12
+439,outplay-entertainment,Non-Crypto Capital,-,-,-,,2022/11/12
+440,pnetwork,Project Based,-,-,-,,2022/11/12
+441,revel-lab,Crypto Ventures,-,-,-,,2022/11/12
+442,third-prime-capital,,-,-,-,,2022/11/12
+443,in-square-ventures,,-,-,-,,2022/11/12
+444,jsquare,Crypto Ventures,-,-,-,,2022/11/12
+445,llama-ventures,,-,-,-,,2022/11/12
+446,crypto-banter,Marketing Support,-,-,-,,2022/11/12
+447,the-lao,Crypto Ventures,-,-,-,,2022/11/12
+448,zokyo-ventures,Security Support,-,-,-,,2022/11/12
+449,a195-capital,Crypto Ventures,-,-,-,,2022/11/12
+450,blockchain-capital,Crypto Ventures,-,-,-,,2022/11/12
+451,protocol-ventures,Crypto Ventures,-,-,-,,2022/11/12
+452,everest-ventures-group,,-,-,-,,2022/11/12
+453,puzzle-ventures,,-,-,-,,2022/11/12
+454,dapper-labs,Project Based,-,-,-,,2022/11/12
+455,daoventures,Project Based,-,-,-,,2022/11/12
+456,propeller,Crypto Ventures,-,-,-,,2022/11/12
+457,6kstarter,Crypto Ventures,-,-,-,,2022/11/12
+458,scorpio-vc,Crypto Ventures,-,-,-,,2022/11/12
+459,fractal,Project Based,-,-,-,,2022/11/12
+460,cryptoforce,Crypto Ventures,-,-,-,,2022/11/12
+461,bring-finance,Project Based,-,-,-,,2022/11/12
+462,chromia,Project Based,-,-,-,,2022/11/12
+463,encrypted-investments,Crypto Ventures,-,-,-,,2022/11/12
+464,o1ex,Crypto Ventures,-,-,-,,2022/11/12
+465,pluto-alliance,Project Based,-,-,-,,2022/11/12
+466,three-arrows-capital,,-,-,-,,2022/11/12
+467,lavax-labs,IDO Launchpad,-,-,-,,2022/11/12
+468,makers-fund,Entertainment Ventures,-,-,-,,2022/11/12
+469,supercell,Game Development,-,-,-,,2022/11/12
+470,heartcore-capital,Crypto Ventures,-,-,-,,2022/11/12
+471,lifeline-ventures,Crypto Ventures,-,-,-,,2022/11/12
+472,true-ventures,Crypto Ventures,-,-,-,,2022/11/12
+473,safestone-technologies-ltd,Security Support,-,-,-,,2022/11/12
+474,multicoin-capital,Crypto Ventures,-,-,-,,2022/11/12
+475,kernel-ventures,,-,-,-,,2022/11/12
+476,jrr-capital,Crypto Ventures,-,-,-,,2022/11/12
+477,tenzor-capital,Crypto Ventures,-,-,-,,2022/11/12
+478,mentha-partners,,-,-,-,,2022/11/12
+479,deep-ventures,Crypto Ventures,-,-,-,,2022/11/12
+480,eden-block,Crypto Ventures,-,-,-,,2022/11/12
+481,moon-inc,Crypto Ventures,-,-,-,,2022/11/12
+482,zmt-capital,Crypto Ventures,-,-,-,,2022/11/12
+483,caballeros-capital,Crypto Ventures,-,-,-,,2022/11/12
+484,deribit,,-,-,-,,2022/11/12
+485,redline-dao,Crypto Ventures,-,-,-,,2022/11/12
+486,stakez-capital,Crypto Ventures,-,-,-,,2022/11/12
+487,arcanum-capital,Crypto Ventures,-,-,-,,2022/11/12
+488,block-hype,Marketing Support,-,-,-,,2022/11/12
+489,firex-capital,Crypto Ventures,-,-,-,,2022/11/12
+490,osaz,Crypto Ventures,-,-,-,,2022/11/12
+491,swissborg-ventures,,-,-,-,,2022/11/12
+492,tokenomik,,-,-,-,,2022/11/12
+493,inv-ventures,Crypto Ventures,-,-,-,,2022/11/12
+494,avocado-guild,Crypto Ventures,-,-,-,,2022/11/12
+495,kenetic-capital,,-,-,-,,2022/11/12
+496,ubisoft,Non-Crypto Capital,-,-,-,,2022/11/12
+497,ubisoft,Game Development,-,-,-,,2022/11/12
+498,backed-venture-capital,Crypto Ventures,-,-,-,,2022/11/12
+499,backed-venture-capital,Non-Crypto Capital,-,-,-,,2022/11/12
+500,immutable-capital,Crypto Ventures,-,-,-,,2022/11/12
+501,perion,Crypto Ventures,-,-,-,,2022/11/12
+502,perion,DAO,-,-,-,,2022/11/12
+503,breederdao,Crypto Ventures,-,-,-,,2022/11/12
+504,breederdao,DAO,-,-,-,,2022/11/12
+505,ygg-sea,Crypto Ventures,-,-,-,,2022/11/12
+506,ygg-sea,DAO,-,-,-,,2022/11/12
+507,guildfi,Crypto Ventures,-,-,-,,2022/11/12
+508,guildfi,DAO,-,-,-,,2022/11/12
+509,enzac-research,Crypto Ventures,-,-,-,,2022/11/12
+510,galaxy-interactive,Non-Crypto Capital,-,-,-,,2022/11/12
+511,galaxy-interactive,Entertainment Ventures,-,-,-,,2022/11/12
+512,com2us,Game Development,-,-,-,,2022/11/12
+513,play-it-forward-dao,Crypto Ventures,-,-,-,,2022/11/12
+514,play-it-forward-dao,DAO,-,-,-,,2022/11/12
+515,blockchainspace,Crypto Ventures,-,-,-,,2022/11/12
+516,blockchainspace,DAO,-,-,-,,2022/11/12
+517,panony,Crypto Ventures,-,-,-,,2022/11/12
+518,conflux-network,Foundation,-,-,-,,2022/11/12
+519,iotex,Foundation,-,-,-,,2022/11/12
+520,dh-capital,Non-Crypto Capital,-,-,-,,2022/11/12
+521,moonchase-asset-management,Crypto Ventures,-,-,-,,2022/11/12
+522,folius-ventures,Crypto Ventures,-,-,-,,2022/11/12
+523,fantom-foundation,Foundation,-,-,-,,2022/11/12
+524,stride.vc,Crypto Ventures,-,-,-,,2022/11/12
+525,entree-capital,Non-Crypto Capital,-,-,-,,2022/11/12
+526,rlc-ventures,Non-Crypto Capital,-,-,-,,2022/11/12
+527,northzone,Non-Crypto Capital,-,-,-,,2022/11/12
+528,cherry-ventures,Non-Crypto Capital,-,-,-,,2022/11/12
+529,moonfire-ventures,Crypto Ventures,-,-,-,,2022/11/12
+530,better-capital,Non-Crypto Capital,-,-,-,,2022/11/12
+531,cloud-capital,Crypto Ventures,-,-,-,,2022/11/12
+532,cloud-capital,Non-Crypto Capital,-,-,-,,2022/11/12
+533,indigg,Crypto Ventures,-,-,-,,2022/11/12
+534,indigg,DAO,-,-,-,,2022/11/12
+535,olivex,Crypto Ventures,-,-,-,,2022/11/12
+536,arca,Developers Support,-,-,-,,2022/11/12
+537,big-brain-holdings,Crypto Ventures,-,-,-,,2022/11/12
+538,gbic,Crypto Ventures,-,-,-,,2022/11/12
+539,hiro-capital,Crypto Ventures,-,-,-,,2022/11/12
+540,korea-investment-partners,Non-Crypto Capital,-,-,-,,2022/11/12
+541,lemniscap,Crypto Ventures,-,-,-,,2022/11/12
+542,jumpcrypto,Crypto Ventures,-,-,-,,2022/11/12
+543,patron,Crypto Ventures,-,-,-,,2022/11/12
+544,rse-ventures,Crypto Ventures,-,-,-,,2022/11/12
+545,lerer-hippeau,Crypto Ventures,-,-,-,,2022/11/12
+546,mindfulness-capital,Crypto Ventures,-,-,-,,2022/11/12
+547,tess-ventures,Crypto Ventures,-,-,-,,2022/11/12
+548,sky9capital,Crypto Ventures,-,-,-,,2022/11/12
+549,pathdao,Crypto Ventures,-,-,-,,2022/11/12
+550,pathdao,DAO,-,-,-,,2022/11/12
+551,aagventures,Crypto Ventures,-,-,-,,2022/11/12
+552,floemcapital,Crypto Ventures,-,-,-,,2022/11/12
+553,qcpcapital,Crypto Ventures,-,-,-,,2022/11/12
+554,lunatic-capital,Crypto Ventures,-,-,-,,2022/11/12
+555,opensea,Foundation,-,-,-,,2022/11/12
+556,framework-ventures,Crypto Ventures,-,-,-,,2022/11/12
+557,framework-ventures,Developers Support,-,-,-,,2022/11/12
+558,warner-music-group,Non-Crypto Capital,-,-,-,,2022/11/12
+559,tidal-ventures,Crypto Ventures,-,-,-,,2022/11/12
+560,blocksync-ventures,Crypto Ventures,-,-,-,,2022/11/12
+561,bluenode-capital,Crypto Ventures,-,-,-,,2022/11/12
+562,anthoscapital,Crypto Ventures,-,-,-,,2022/11/12
+563,anthoscapital,Non-Crypto Capital,-,-,-,,2022/11/12
+564,ancient8,Crypto Ventures,-,-,-,,2022/11/12
+565,ancient8,DAO,-,-,-,,2022/11/12
+566,unix,Crypto Ventures,-,-,-,,2022/11/12
+567,unix,DAO,-,-,-,,2022/11/12
+568,transcent-fund,Crypto Ventures,-,-,-,,2022/11/12
+569,flow-ventures,Crypto Ventures,-,-,-,,2022/11/12
+570,virtual-human-studio,Crypto Ventures,-,-,-,,2022/11/12
+571,synergia-capital,Crypto Ventures,-,-,-,,2022/11/12
+572,galaxy-digital,Crypto Ventures,-,-,-,,2022/11/12
+573,scrypt,Crypto Ventures,-,-,-,,2022/11/12
+574,c-ventures,Crypto Ventures,-,-,-,,2022/11/12
+575,c-ventures,Non-Crypto Capital,-,-,-,,2022/11/12
+576,crossbeam,Crypto Ventures,-,-,-,,2022/11/12
+577,springwind-ventures,Foundation,-,-,-,,2022/11/12
+578,foundation-capital,Crypto Ventures,-,-,-,,2022/11/12
+579,foundation-capital,Non-Crypto Capital,-,-,-,,2022/11/12
+580,winklevoss-capital,Crypto Ventures,-,-,-,,2022/11/12
+581,yuanyuzhou-ventures,Crypto Ventures,-,-,-,,2022/11/12
+582,at-capital,Crypto Ventures,-,-,-,,2022/11/12
+583,project-galaxy,Crypto Ventures,-,-,-,,2022/11/12
+584,goat-capital,Crypto Ventures,-,-,-,,2022/11/12
+585,xsquared-ventures,Crypto Ventures,-,-,-,,2022/11/12
+586,softbank,Developers Support,-,-,-,,2022/11/12
+587,mirae-asset-global-investments,,-,-,-,,2022/11/12
+588,inveready,Crypto Ventures,-,-,-,,2022/11/12
+589,inveready,Non-Crypto Capital,-,-,-,,2022/11/12
+590,bonsaipartners,Crypto Ventures,-,-,-,,2022/11/12
+591,bonsaipartners,Non-Crypto Capital,-,-,-,,2022/11/12
+592,courtside-ventures,Crypto Ventures,-,-,-,,2022/11/12
+593,alpaca-vc,Crypto Ventures,-,-,-,,2022/11/12
+594,alpaca-vc,Non-Crypto Capital,-,-,-,,2022/11/12
+595,tencent,Developers Support,-,-,-,,2022/11/12
+596,oyster-ventures,Crypto Ventures,-,-,-,,2022/11/12
+597,outlier-ventures,Crypto Ventures,-,-,-,,2022/11/12
+598,warnerbros.,Foundation,-,-,-,,2022/11/12
+599,circle,Crypto Ventures,-,-,-,,2022/11/12
+600,libertus-capital,Crypto Ventures,-,-,-,,2022/11/12
+601,iosg-ventures,Crypto Ventures,-,-,-,,2022/11/12
+602,riot-games,Game Development,-,-,-,,2022/11/12
+603,ttv-capital,Crypto Ventures,-,-,-,,2022/11/12
+604,ivc-venture-capital,,-,-,-,,2022/11/12
+605,tribe-capital,Crypto Ventures,-,-,-,,2022/11/12
+606,1kx,Crypto Ventures,-,-,-,,2022/11/12
+607,talis-capital,Crypto Ventures,-,-,-,,2022/11/12
+608,dhvc,Crypto Ventures,-,-,-,,2022/11/12
+609,dhvc,Non-Crypto Capital,-,-,-,,2022/11/12
+610,qglobe,Lab,-,-,-,,2022/11/12
+611,okx,Corporate,-,-,-,,2022/11/12
+612,wadzpay,Corporate,-,-,-,,2022/11/12
+613,tokoin,Corporate,-,-,-,,2022/11/12
+614,antler,Crypto Ventures,-,-,-,,2022/11/12
+615,negentropy-capital,Crypto Ventures,-,-,-,,2022/11/12
+616,y2zventures,Crypto Ventures,-,-,-,,2022/11/12
+617,verizon-ventures,Corporate,-,-,-,,2022/11/12
+618,leonis-capital,Venture Capital,-,-,-,,2022/11/12
+619,sumitomo-mitsui-trust-bank,Bank,-,-,-,,2022/11/12
+620,blue-pool-capital,Foundation,-,-,-,,2022/11/12
+621,assembly-capital-partners,Venture Capital,-,-,-,,2022/11/12
+622,metax-ventures,Venture Capital,-,-,-,,2022/11/12
+623,metaverse-alliance,IDO Launchpad,-,-,-,,2022/11/12
+624,dynamic-fintech-group,Crypto Ventures,-,-,-,,2022/11/12
+625,unity-capital,Crypto Ventures,-,-,-,,2022/11/12
+626,akg-ventures,Venture Capital,-,-,-,,2022/11/12
+627,horizon-capital,Venture Capital,-,-,-,,2022/11/12
+628,mcg-capital,Venture Capital,-,-,-,,2022/11/12
+629,luna-capital,Crypto Ventures,-,-,-,,2022/11/12
+630,hillrise-capital,Crypto Ventures,-,-,-,,2022/11/12
+631,oig-investment-group,Venture Capital,-,-,-,,2022/11/12
+632,dfg,Crypto Ventures,-,-,-,,2022/11/12
+633,octopus-crypto-capital,Crypto Ventures,-,-,-,,2022/11/12
+634,prometeus-labs,Lab,-,-,-,,2022/11/12
+635,athena-ventures,Venture Capital,-,-,-,,2022/11/12
+636,corner-ventures,Venture Capital,-,-,-,,2022/11/12
+637,openspace-ventures,Venture Capital,-,-,-,,2022/11/12
+638,ready-player-dao,DAO,-,-,-,,2022/11/12
+639,avocado-dao,DAO,-,-,-,,2022/11/12
+640,a41-ventures,Venture Capital,-,-,-,,2022/11/12
+641,qi-capital,Venture Capital,-,-,-,,2022/11/12
+642,hooga-hooga-ventures,Venture Capital,-,-,-,,2022/11/12
+643,fenbushi-digital,Developers Support,-,-,-,,2022/11/12
+644,kingsway-capital,Venture Capital,-,-,-,,2022/11/12
+645,gate-ventures,Crypto Ventures,-,-,-,,2022/11/12
+646,mintable,,-,-,-,,2022/11/12
+647,gbv-capital,Crypto Ventures,-,-,-,,2022/11/12
+648,hyperedge-capital,Crypto Ventures,-,-,-,,2022/11/12
+649,dune-ventures,Venture Capital,-,-,-,,2022/11/12
+650,transcend-fund,Crypto Ventures,-,-,-,,2022/11/12
+651,griffin-gaming-partners,Venture Capital,-,-,-,,2022/11/12
+652,lightspeed-venture-partners,Venture Capital,-,-,-,,2022/11/12
+653,digital-currency-group,Crypto Ventures,-,-,-,,2022/11/12
+654,frabric-ventures,Crypto Ventures,-,-,-,,2022/11/12
+655,volt-capital,Crypto Ventures,-,-,-,,2022/11/12
+656,blackpool,DAO,-,-,-,,2022/11/12
+657,lootsquad,DAO,-,-,-,,2022/11/12
+658,m.h.carnegieco,Crypto Ventures,-,-,-,,2022/11/12
+659,m.h.carnegieco,Non-Crypto Capital,-,-,-,,2022/11/12
+660,salad-ventures,Crypto Ventures,-,-,-,,2022/11/12
+661,shaw-and-partners,Crypto Ventures,-,-,-,,2022/11/12
+662,shaw-and-partners,Non-Crypto Capital,-,-,-,,2022/11/12
+663,flori-ventures,Crypto Ventures,-,-,-,,2022/11/12
+664,sanctor-capital,Crypto Ventures,-,-,-,,2022/11/12
+665,hedgespur-capital,Crypto Ventures,-,-,-,,2022/11/12
+666,jun-capital,Crypto Ventures,-,-,-,,2022/11/12
+667,blockdesk-ventures,Crypto Ventures,-,-,-,,2022/11/12
+668,greylock-partners,Crypto Ventures,-,-,-,,2022/11/12
+669,greylock-partners,Non-Crypto Capital,-,-,-,,2022/11/12
+670,human-capital,Crypto Ventures,-,-,-,,2022/11/12
+671,human-capital,Non-Crypto Capital,-,-,-,,2022/11/12
+672,solana-ventures,Crypto Ventures,-,-,-,,2022/11/12
+673,superchain-capital,Crypto Ventures,-,-,-,,2022/11/12
+674,uobventure,Crypto Ventures,-,-,-,,2022/11/12
+675,uobventure,Non-Crypto Capital,-,-,-,,2022/11/12
+676,dreamcraft,Crypto Ventures,-,-,-,,2022/11/12
+677,dreamcraft,Non-Crypto Capital,-,-,-,,2022/11/12
+678,white-star-capital,Crypto Ventures,-,-,-,,2022/11/12
+679,white-star-capital,Non-Crypto Capital,-,-,-,,2022/11/12
+680,stake-capital,Crypto Ventures,-,-,-,,2022/11/12
+681,susquehanna-international-group,Crypto Ventures,-,-,-,,2022/11/12
+682,susquehanna-international-group,Non-Crypto Capital,-,-,-,,2022/11/12
+683,susquehanna-international-group,Corporate,-,-,-,,2022/11/12
+684,republic-crypto,Crypto Ventures,-,-,-,,2022/11/12
+685,alliance,Crypto Ventures,-,-,-,,2022/11/12
+686,mhc-digital-assets,Venture Capital,-,-,-,,2022/11/12
+687,ftx,Crypto Ventures,-,-,-,,2022/11/12
+688,emfarsis,Crypto Ventures,-,-,-,,2022/11/12
+689,1upventures,Venture Capital,-,-,-,,2022/11/12
+690,krust,Venture Capital,-,-,-,,2022/11/12
+691,liberty-city-ventures,Venture Capital,-,-,-,,2022/11/12
+692,mirana-ventures,Venture Capital,-,-,-,,2022/11/12
+693,koreit,Non-Crypto Capital,-,-,-,,2022/11/12
+694,pdax,Venture Capital,-,-,-,,2022/11/12
+695,lda-capital,Venture Capital,-,-,-,,2022/11/12
+696,kb-partners,Venture Capital,-,-,-,,2022/11/12
+697,union-square-ventures,Venture Capital,-,-,-,,2022/11/12
+698,electric-capital,Venture Capital,-,-,-,,2022/11/12
+699,republic-capital,Venture Capital,-,-,-,,2022/11/12
+700,geliim-group,Venture Capital,-,-,-,,2022/11/12
+701,roosh-venture,Venture Capital,-,-,-,,2022/11/12
+702,a16z-crypto,Venture Capital,-,-,-,,2022/11/12
+703,incubate-fund,Venture Capital,-,-,-,,2022/11/12
+704,crypto-gaming-united-cgu,Venture Capital,-,-,-,,2022/11/12
+705,wintermute,Venture Capital,-,-,-,,2022/11/12
+706,neon,Bank,-,-,-,,2022/11/12
+707,tuzanye,Venture Capital,-,-,-,,2022/11/12
+708,mercuryo,Foundation,-,-,-,,2022/11/12
+709,general-catalyst,Venture Capital,-,-,-,,2022/11/12
+710,d1-venture,Venture Capital,-,-,-,,2022/11/12
+711,metacartel-ventures,Venture Capital,-,-,-,,2022/11/12
+712,skybridge-capital,Venture Capital,-,-,-,,2022/11/12
+713,spice-capital-partners,Venture Capital,-,-,-,,2022/11/12
+714,moonwhale-ventures,Venture Capital,-,-,-,,2022/11/12
+715,nft-technologies,Venture Capital,-,-,-,,2022/11/12
+716,ibc-international-blockchain-consulting,Foundation,-,-,-,,2022/11/12
+717,wealth-union,Venture Capital,-,-,-,,2022/11/12
+718,fairum-ventures,Venture Capital,-,-,-,,2022/11/12
+719,vespertine-capital,Venture Capital,-,-,-,,2022/11/12
+720,milky-way,Venture Capital,-,-,-,,2022/11/12
+721,molten-ventures,Venture Capital,-,-,-,,2022/11/12
+722,2050,Venture Capital,-,-,-,,2022/11/12
+723,brevan-howard,Venture Capital,-,-,-,,2022/11/12
+724,morgan-creek-digital,Venture Capital,-,-,-,,2022/11/12
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
