@@ -7,4 +7,4 @@ You can see a detailed analysis of the operation and results in this document:
 [Final Paper](/Final%20paper.pdf)
 
 ![](/pic/2.jpg)
-![](/pic/1.jpg)
+![](/pic/1.png)
