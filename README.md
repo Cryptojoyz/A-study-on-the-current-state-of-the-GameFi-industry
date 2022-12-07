@@ -5,5 +5,4 @@ Blockchain gaming is regarded as a new path for the future growth of the game in
 ### Result
 
 You can see a detailed analysis of the operation and results in this document:
-
-<https://github.com/Cryptojoyz/A-study-on-the-current-state-of-the-GameFi-industry/blob/7fdf5ca59f6bf747ad8845d56f077758621ba659/Final%20paper.pdf>
+[Final Paper](https://github.com/Cryptojoyz/A-study-on-the-current-state-of-the-GameFi-industry/blob/7fdf5ca59f6bf747ad8845d56f077758621ba659/Final%20paper.pdf)
